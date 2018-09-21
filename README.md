@@ -1,6 +1,6 @@
 # Background Button ![Github Stars](https://img.shields.io/github/stars/ffpsj/background-button.svg?label=Stars) ![Github Forks](https://img.shields.io/github/forks/ffpsj/background-button.svg?label=Forks) ![Github Watchers](https://img.shields.io/github/watchers/ffpsj/background-button.svg?label=Watchers) ![Github Followers](https://img.shields.io/github/followers/ffpsj.svg?label=Followers) ![Github Contributors](https://img.shields.io/github/contributors/ffpsj/background-button.svg?label=Contributors) ![Github Repository Size](https://img.shields.io/github/repo-size/ffpsj/background-button.svg?label=Size)
 
-![Header](https://i.imgur.com/oJYShQU.png)
+![Header](https://i.imgur.com/lbDku6L.png)
 
 How to create beautiful and simple backgrounded buttons on Flutter
 
@@ -18,4 +18,4 @@ How to create beautiful and simple backgrounded buttons on Flutter
 
 ## Contact Me
 + E-mail: ffpsjr@gmail.com
-+ Telefone: (82) 9 9121-3725
++ Phone: +5582991213725
