@@ -9,10 +9,10 @@ class BackgroundButton extends StatefulWidget {
 class BackgroundButtonState extends State<BackgroundButton> with UtilButton {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: Container(
-        child: Center(
-          child: Column(
+    return new Scaffold(
+      body: new Container(
+        child: new Center(
+          child: new Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               buildBackgroundButton(
